@@ -1,0 +1,900 @@
+{
+  "id": "feed/http://www.digi24.ro/rss",
+  "title": "Digi24",
+  "updated": 1560961125551,
+  "alternate": [   {
+    "href": "https://www.digi24.ro/",
+    "type": "text/html"
+  }],
+  "direction": "ltr",
+  "continuation": "16b6f9a222d:13a768:5e307cc6",
+  "items":    [
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70888caf:28b4ab:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "fingerprint": "e3abeab6",
+      "content":          {
+        "content": "Penitenciarul Rahova a aprobat cererea fostului primar al Constanței, Radu Mazăre, de a se cununa cu iubita sa, a spus fratele fostului edil, Mihai Mazăre. Data urmează să fie fixată în funcție de disponibilitatea Primăriei Sectorului 5.",
+        "direction": "ltr"
+      },
+      "title": "Cererea de cununie a lui Radu Mazăre a fost aprobată. De ce depinde stabilirea datei",
+      "summary":          {
+        "content": "Penitenciarul Rahova a aprobat cererea fostului primar al Constanței, Radu Mazăre, de a se cununa cu iubita sa, a spus fratele fostului edil, Mihai Mazăre. Data urmează să fie fixată în funcție de disponibilitatea Primăriei Sectorului 5.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjE2JTJGMTA3NDM2OF8xMDc0/MzY4X3JhZHUtbWF6YXJlX2RuYV8wNF9J/TlFfT2N0YXZfR2FuZWEtMS5qcGcmaGFz/aD02YTcxODQ4YTA5NWI3NjNiN2U4ZjAzYTcwZGMyMGNhOQ==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+        "type": "text/html"
+      }],
+      "crawled": 1560961125551,
+      "published": 1560960642000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjE2JTJGMTA3NDM2OF8xMDc0/MzY4X3JhZHUtbWF6YXJlX2RuYV8wNF9J/TlFfT2N0YXZfR2FuZWEtMS5qcGcmaGFz/aD02YTcxODQ4YTA5NWI3NjNiN2U4ZjAzYTcwZGMyMGNhOQ==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }]
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7081e8a6:281519:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "fingerprint": "e4ba9d1a",
+      "content":          {
+        "content": "Președintele ALDE, Călin Popescu Tăriceanu, le-a reproșat colegilor de partid, reuniți miercuri în ședință la palatul Parlamentului, rezultatul dezastruos înregistrat la alegerile europarlamentare din 26 mai, când formațiunea nu a reușit să treacă pragul minim de 5% pentru a obține un mandat în Parlamentul European, au declarat surse participante la discuții pentru Digi24.ro.",
+        "direction": "ltr"
+      },
+      "title": "Tăriceanu și-a certat partidul pentru dezastrul de la alegeri",
+      "summary":          {
+        "content": "Președintele ALDE, Călin Popescu Tăriceanu, le-a reproșat colegilor de partid, reuniți miercuri în ședință la palatul Parlamentului, rezultatul dezastruos înregistrat la alegerile europarlamentare din 26 mai, când formațiunea nu a reușit să treacă pragul minim de 5% pentru a obține un mandat în Parlamentul European, au declarat surse participante la discuții pentru Digi24.ro.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwMSUyRjI2JTJGODcwNTQzXzg3MDU0/M18xNzA2MTRfQ09ORkVSSU5UQV9EUkFH/TkVBX1RBUklDRUFOVV8wM19JTlFVQU1f/UGhvdG9zX0dlb3JnZV9DYWxpbi0xLmpw/ZyZoYXNoPTJkZmQ5MTUwNjYxMWZiNzJlN2U4NmI3YjZhMjBjMDVh.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+        "type": "text/html"
+      }],
+      "crawled": 1560960690342,
+      "published": 1560960597000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwMSUyRjI2JTJGODcwNTQzXzg3MDU0/M18xNzA2MTRfQ09ORkVSSU5UQV9EUkFH/TkVBX1RBUklDRUFOVV8wM19JTlFVQU1f/UGhvdG9zX0dlb3JnZV9DYWxpbi0xLmpw/ZyZoYXNoPTJkZmQ5MTUwNjYxMWZiNzJlN2U4NmI3YjZhMjBjMDVh.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 69,
+      "engagementRate": 1.73
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7074bf49:299856:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "fingerprint": "bf821778",
+      "content":          {
+        "content": "Habar nu aveau de ce au ieşit românii în stradă. Îşi doreau doar să se bată cu jandarmii. Aşa explică judecătorii violenţele produse la protestele pentru OUG 13, din februarie 2017. Au condamnat 12 huligani la pedepse de până la 4 ani de închisoare. În motivarea deciziei, magistratul explică și cum fost pusă în pericol viaţa a 150.000 de oameni.",
+        "direction": "ltr"
+      },
+      "title": "Explicații pentru pedepsele de la protestul față de OUG 13",
+      "summary":          {
+        "content": "Habar nu aveau de ce au ieşit românii în stradă. Îşi doreau doar să se bată cu jandarmii. Aşa explică judecătorii violenţele produse la protestele pentru OUG 13, din februarie 2017. Au condamnat 12 huligani la pedepse de până la 4 ani de închisoare. În motivarea deciziei, magistratul explică și cum fost pusă în pericol viaţa a 150.000 de oameni.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMSUyRjAyJTJGOTk5ODgwXzk5OTg4/MF8xNzAyMDFfUElBVEFfVklDVE9SSUVJ/X1BST1RFU1RfVklPTEVOVEVfMDBfSU5R/VUFNX09jdGF2X0dhbmVhLmpwZyZoYXNo/PTFiYjMxZjY2MDBhYjZiMTAwOGZlNjUxODY1ZWYyNmMz.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+        "type": "text/html"
+      }],
+      "crawled": 1560959827785,
+      "published": 1560959713000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMSUyRjAyJTJGOTk5ODgwXzk5OTg4/MF8xNzAyMDFfUElBVEFfVklDVE9SSUVJ/X1BST1RFU1RfVklPTEVOVEVfMDBfSU5R/VUFNX09jdGF2X0dhbmVhLmpwZyZoYXNo/PTFiYjMxZjY2MDBhYjZiMTAwOGZlNjUxODY1ZWYyNmMz.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 4,
+      "engagementRate": 0.04
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7067b690:2849d4:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "fingerprint": "5e7aa785",
+      "content":          {
+        "content": "Călin Popescu Tăriceanu anunţă că susţine implementarea votului anticipat, despre care spune că a fost o idee a sa pe care a preluat-o preşedintele Klaus Iohannis. ",
+        "direction": "ltr"
+      },
+      "title": "Tăriceanu: Iohannis a preluat ideea noastră cu votul anticipat",
+      "summary":          {
+        "content": "Călin Popescu Tăriceanu anunţă că susţine implementarea votului anticipat, despre care spune că a fost o idee a sa pe care a preluat-o preşedintele Klaus Iohannis. ",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI5JTJGMTA3OTUxNl8xMDc5/NTE2X0lEODI4ODRfLXRhcmljZWFudS1J/TlFVQU1fUGhvdG9zX09jdGF2X0dhbmVh/LmpwZyZoYXNoPTlkMDg0NTYxMjJiZDdkYmI3MmE5OTQ5ODIxYTkxNjdk.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+        "type": "text/html"
+      }],
+      "crawled": 1560958973584,
+      "published": 1560958716000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI5JTJGMTA3OTUxNl8xMDc5/NTE2X0lEODI4ODRfLXRhcmljZWFudS1J/TlFVQU1fUGhvdG9zX09jdGF2X0dhbmVh/LmpwZyZoYXNoPTlkMDg0NTYxMjJiZDdkYmI3MmE5OTQ5ODIxYTkxNjdk.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 440,
+      "engagementRate": 2.33
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7061236f:279c73:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "recrawled": 1560958973584,
+      "updateCount": 1,
+      "fingerprint": "3251bc6c",
+      "content":          {
+        "content": "Proiectul de ordonanță de urgență privind reglementarea platformelor de ridesharing va intra joi în primă lectură în ședința de Guvern și va fi adoptat după ce primește avizul din partea Consiliului Economic şi Social, a anunţat ministrul Transporturilor. Răzvan Cuc.",
+        "direction": "ltr"
+      },
+      "title": "Cuc anunță că proiectul de OUG pe ridesharing intră în ședința de Guvern de joi. Ciolacu: Dacă nu, legea să intre la vot în Parlament",
+      "summary":          {
+        "content": "Proiectul de ordonanță de urgență privind reglementarea platformelor de ridesharing va intra joi în primă lectură în ședința de Guvern și va fi adoptat după ce primește avizul din partea Consiliului Economic şi Social, a anunţat ministrul Transporturilor. Răzvan Cuc.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjIwJTJGMTA3NTQ5OV8xMDc1/NDk5X3ViZXItR2V0dHlJbWFnZXMtMjkt/c2VwdC0xNS0xLmpwZyZoYXNoPTkwN2I5/OTQwZTQyNzJkNmNjNzMzMTBjNTEyZTkwM2Ni.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+        "type": "text/html"
+      }],
+      "crawled": 1560958542703,
+      "published": 1560958811000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjIwJTJGMTA3NTQ5OV8xMDc1/NDk5X3ViZXItR2V0dHlJbWFnZXMtMjkt/c2VwdC0xNS0xLmpwZyZoYXNoPTkwN2I5/OTQwZTQyNzJkNmNjNzMzMTBjNTEyZTkwM2Ni.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 4,
+      "engagementRate": 0.02
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7040218e:9388e4:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "fingerprint": "cb3d4e8a",
+      "content":          {
+        "content": "Profesorul de religie care a lăsat însărcinată o elevă de la liceul din Arieșeni, județul Alba, a recunoscut copilul. El ainițiat, împreună cu mama, procedurile pentru emiterea unui nou certificat de naștere al bebelușului, relatează MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "title": "Profesorul de religie din Alba care a lăsat însărcinată o elevă a recunoscut copilul",
+      "summary":          {
+        "content": "Profesorul de religie care a lăsat însărcinată o elevă de la liceul din Arieșeni, județul Alba, a recunoscut copilul. El ainițiat, împreună cu mama, procedurile pentru emiterea unui nou certificat de naștere al bebelușului, relatează MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMiUyRjEzJTJGMTAxNzQwNF8xMDE3/NDA0X21hdGVybml0YXRlLWJlYmVsdXMt/c3BpdGFsX3NodXR0ZXJzdG9ja18zNjA1/MTExNDUuanBnJmhhc2g9MjI3YmYxOGFmMjYzYzk3NWIzYjhhZWRhMzY3NmJhOTI=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+        "type": "text/html"
+      }],
+      "crawled": 1560956379534,
+      "published": 1560955983000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMiUyRjEzJTJGMTAxNzQwNF8xMDE3/NDA0X21hdGVybml0YXRlLWJlYmVsdXMt/c3BpdGFsX3NodXR0ZXJzdG9ja18zNjA1/MTExNDUuanBnJmhhc2g9MjI3YmYxOGFmMjYzYzk3NWIzYjhhZWRhMzY3NmJhOTI=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 213,
+      "engagementRate": 0.54
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70395953:20b2d6:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/externe/mapamond/rusia-critica-ancheta-autoritatilor-olandeze-legata-de-prabusirea-avionului-mh17-1148925",
+      "fingerprint": "ff3e3ff4",
+      "content":          {
+        "content": "Purtătorul de cuvânt al preşedinţiei Rusiei, Dmitri Peskov, a criticat miercuri ancheta autorităţilor olandeze privind prăbuşirea în Ucraina a unei aeronave a companiei Malaysia Airlines.",
+        "direction": "ltr"
+      },
+      "title": "Rusia critică ancheta autorităților olandeze legată de prăbușirea avionului MH17",
+      "summary":          {
+        "content": "Purtătorul de cuvânt al preşedinţiei Rusiei, Dmitri Peskov, a criticat miercuri ancheta autorităţilor olandeze privind prăbuşirea în Ucraina a unei aeronave a companiei Malaysia Airlines.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg4OF8xMDg1/ODg4X0dldHR5SW1hZ2VzLTYxMDg5MDkz/NC5qcGcmaGFzaD0zYjg5MmFhMDQxOGY1OGVjNDBlOTgxYzMwNmE4MTZmZA==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/externe/mapamond/rusia-critica-ancheta-autoritatilor-olandeze-legata-de-prabusirea-avionului-mh17-1148925",
+        "type": "text/html"
+      }],
+      "crawled": 1560955935059,
+      "published": 1560955672000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg4OF8xMDg1/ODg4X0dldHR5SW1hZ2VzLTYxMDg5MDkz/NC5qcGcmaGFzaD0zYjg5MmFhMDQxOGY1OGVjNDBlOTgxYzMwNmE4MTZmZA==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/externe/mapamond/rusia-critica-ancheta-autoritatilor-olandeze-legata-de-prabusirea-avionului-mh17-1148925",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/externe/mapamond/rusia-critica-ancheta-autoritatilor-olandeze-legata-de-prabusirea-avionului-mh17-1148925",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/externe/mapamond/rusia-critica-ancheta-autoritatilor-olandeze-legata-de-prabusirea-avionului-mh17-1148925",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 29,
+      "engagementRate": 0.07
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70395953:20b2d5:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/externe/mapamond/oficial-onu-este-posibil-ca-mohammed-bin-salman-sa-fi-avut-un-rol-in-asasinarea-jurnalistului-jamal-khashoggi-1148906",
+      "fingerprint": "36417f5e",
+      "content":          {
+        "content": "Există probe suficiente în vederea deschiderii unei anchete vizând oficiali saudiţi de rang înalt - inclusiv prinţul moştenitor Mohammed bin Salman - în dosarul Khashoggi, a apreciat miercuri o expertă ONU în drepturile omului, îndemnându-l pe secretarul general al ONU să deschidă această anchetă, relatează AFP, citată de news.ro.",
+        "direction": "ltr"
+      },
+      "title": "Oficial ONU: Este posibil ca Mohammed bin Salman să fi avut un rol în asasinarea jurnalistului Jamal Khashoggi",
+      "summary":          {
+        "content": "Există probe suficiente în vederea deschiderii unei anchete vizând oficiali saudiţi de rang înalt - inclusiv prinţul moştenitor Mohammed bin Salman - în dosarul Khashoggi, a apreciat miercuri o expertă ONU în drepturile omului, îndemnându-l pe secretarul general al ONU să deschidă această anchetă, relatează AFP, citată de news.ro.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMCUyRjIyJTJGOTk0ODg3Xzk5NDg4/N19qYW1hbC1raGFzaG9nZ2ktMi5qcGcm/aGFzaD0yNjVjYmNiMWQwYjU4ZjA2ODU2MzQ4MDRmMGE2OTBiMA==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/externe/mapamond/oficial-onu-este-posibil-ca-mohammed-bin-salman-sa-fi-avut-un-rol-in-asasinarea-jurnalistului-jamal-khashoggi-1148906",
+        "type": "text/html"
+      }],
+      "crawled": 1560955935059,
+      "published": 1560955669000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMCUyRjIyJTJGOTk0ODg3Xzk5NDg4/N19qYW1hbC1raGFzaG9nZ2ktMi5qcGcm/aGFzaD0yNjVjYmNiMWQwYjU4ZjA2ODU2MzQ4MDRmMGE2OTBiMA==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/externe/mapamond/oficial-onu-este-posibil-ca-mohammed-bin-salman-sa-fi-avut-un-rol-in-asasinarea-jurnalistului-jamal-khashoggi-1148906",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/externe/mapamond/oficial-onu-este-posibil-ca-mohammed-bin-salman-sa-fi-avut-un-rol-in-asasinarea-jurnalistului-jamal-khashoggi-1148906",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/externe/mapamond/oficial-onu-este-posibil-ca-mohammed-bin-salman-sa-fi-avut-un-rol-in-asasinarea-jurnalistului-jamal-khashoggi-1148906",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 22,
+      "engagementRate": 0.05
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b702be792:222714:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/dacian-ciolos-avem-un-moment-astral-1148919",
+      "fingerprint": "1514b390",
+      "content":          {
+        "content": "Dacian Cioloș susține după alegerea sa ca lider de grup al noului grup liberal din Parlamentul European, Renew Europe, că România se bucură de „un moment astral” și cere un pact al opoziției „care să clarifice cât de curând ce ne dorim de la viitoarele alegeri”.",
+        "direction": "ltr"
+      },
+      "title": "Dacian Cioloș: „Avem un moment astral”",
+      "summary":          {
+        "content": "Dacian Cioloș susține după alegerea sa ca lider de grup al noului grup liberal din Parlamentul European, Renew Europe, că România se bucură de „un moment astral” și cere un pact al opoziției „care să clarifice cât de curând ce ne dorim de la viitoarele alegeri”.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg4M18xMDg1/ODgzX2Npb2xvc19zdHJhbmdlcmVfZGVf/bWFuYV9tYWNyb24uanBnJmhhc2g9Zjg1/OGM2NTM2ZTk1ZGMzNmNiOGZjN2MxMWVkZWJlYjY=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/dacian-ciolos-avem-un-moment-astral-1148919",
+        "type": "text/html"
+      }],
+      "crawled": 1560955053970,
+      "published": 1560954895000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg4M18xMDg1/ODgzX2Npb2xvc19zdHJhbmdlcmVfZGVf/bWFuYV9tYWNyb24uanBnJmhhc2g9Zjg1/OGM2NTM2ZTk1ZGMzNmNiOGZjN2MxMWVkZWJlYjY=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/dacian-ciolos-avem-un-moment-astral-1148919",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/dacian-ciolos-avem-un-moment-astral-1148919",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/dacian-ciolos-avem-un-moment-astral-1148919",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 1202,
+      "engagementRate": 2.58
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70251ee5:90dd29:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/marcel-ciolacu-ii-raspunde-lui-klaus-iohannis-e-pentru-prima-oara-dupa-mult-timp-cand-suntem-cu-totii-de-acord-1148922",
+      "recrawled": 1560955053970,
+      "updateCount": 1,
+      "fingerprint": "c501a69f",
+      "content":          {
+        "content": "Preşedintele Klaus Iohannis a cerut Guvernului și Parlamentului să modifice, de urgenţă, legislația electorală, pentru a evita cozile interminabile la alegerile prezidențiale. Preşedintele Camerei Deputaţilor, Marcel Ciolacu, a reacţionat imediat.",
+        "direction": "ltr"
+      },
+      "title": "Marcel Ciolacu îi răspunde lui Klaus Iohannis: „E pentru prima oară, după mult timp, când suntem cu toții de acord”",
+      "summary":          {
+        "content": "Preşedintele Klaus Iohannis a cerut Guvernului și Parlamentului să modifice, de urgenţă, legislația electorală, pentru a evita cozile interminabile la alegerile prezidențiale. Preşedintele Camerei Deputaţilor, Marcel Ciolacu, a reacţionat imediat.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjExJTJGMTA4MzQ3Nl8xMDgz/NDc2X3JldW5pcmUtcHNkLW1hcmNlbC1j/aW9sYWN1LWlucXVhbS1waG90b3Mtb2N0/YXYtZ2FuZWEtMjAxOTA2MTExNDAzMTJf/T0dOXzA2NjItMDEuanBlZyZoYXNoPTUw/MDMzYmJhYTc3ZTM3M2IwYmM5NDZiY2RjNDZiZGEy.jpeg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/marcel-ciolacu-ii-raspunde-lui-klaus-iohannis-e-pentru-prima-oara-dupa-mult-timp-cand-suntem-cu-totii-de-acord-1148922",
+        "type": "text/html"
+      }],
+      "crawled": 1560954609381,
+      "published": 1560954506000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjExJTJGMTA4MzQ3Nl8xMDgz/NDc2X3JldW5pcmUtcHNkLW1hcmNlbC1j/aW9sYWN1LWlucXVhbS1waG90b3Mtb2N0/YXYtZ2FuZWEtMjAxOTA2MTExNDAzMTJf/T0dOXzA2NjItMDEuanBlZyZoYXNoPTUw/MDMzYmJhYTc3ZTM3M2IwYmM5NDZiY2RjNDZiZGEy.jpeg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/marcel-ciolacu-ii-raspunde-lui-klaus-iohannis-e-pentru-prima-oara-dupa-mult-timp-cand-suntem-cu-totii-de-acord-1148922",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/marcel-ciolacu-ii-raspunde-lui-klaus-iohannis-e-pentru-prima-oara-dupa-mult-timp-cand-suntem-cu-totii-de-acord-1148922",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/marcel-ciolacu-ii-raspunde-lui-klaus-iohannis-e-pentru-prima-oara-dupa-mult-timp-cand-suntem-cu-totii-de-acord-1148922",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 192,
+      "engagementRate": 0.39
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7017aa9a:8fa510:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/psd-acuza-fraudarea-alegerilor-din-26-mai-si-cere-comisie-de-ancheta-1148911",
+      "fingerprint": "64d4ada2",
+      "content":          {
+        "content": "Purtătorul de cuvânt al PSD a anunțat, miercuri, că în cadrul coaliției PSD-ALDE se discută despre înființarea unei comisii parlamentare de anchetă pentru votul la alegerile europarlamentare, în contextul unor informații în spațiul public potrivit cărora votul ar fi fost fraudat.",
+        "direction": "ltr"
+      },
+      "title": "PSD acuză fraudarea alegerilor din 26 mai și cere comisie de anchetă",
+      "summary":          {
+        "content": "Purtătorul de cuvânt al PSD a anunțat, miercuri, că în cadrul coaliției PSD-ALDE se discută despre înființarea unei comisii parlamentare de anchetă pentru votul la alegerile europarlamentare, în contextul unor informații în spațiul public potrivit cărora votul ar fi fost fraudat.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI3JTJGMTA3ODc5OV8xMDc4/Nzk5X2RyYWduZWEtZXhpdC1wb2xsLXBz/ZC1pbnF1YW1waG90b3Mtb2N0YXYtZ2Fu/ZWEtMi5qcGVnJmhhc2g9MjdlN2RjMWYzNzk3MTM1MzI1OWZhMGRhMzdmOTVkYzI=.jpeg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/psd-acuza-fraudarea-alegerilor-din-26-mai-si-cere-comisie-de-ancheta-1148911",
+        "type": "text/html"
+      }],
+      "crawled": 1560953727642,
+      "published": 1560953488000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI3JTJGMTA3ODc5OV8xMDc4/Nzk5X2RyYWduZWEtZXhpdC1wb2xsLXBz/ZC1pbnF1YW1waG90b3Mtb2N0YXYtZ2Fu/ZWEtMi5qcGVnJmhhc2g9MjdlN2RjMWYzNzk3MTM1MzI1OWZhMGRhMzdmOTVkYzI=.jpeg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/psd-acuza-fraudarea-alegerilor-din-26-mai-si-cere-comisie-de-ancheta-1148911",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/psd-acuza-fraudarea-alegerilor-din-26-mai-si-cere-comisie-de-ancheta-1148911",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/psd-acuza-fraudarea-alegerilor-din-26-mai-si-cere-comisie-de-ancheta-1148911",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 6656,
+      "engagementRate": 12.63
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6ffd11e4:1d823c:5e307cc6",
+      "originId": "https://www.digi24.ro/meteo/tara-in-care-temperatura-a-ajuns-la-63-de-grade-celsius-cea-mai-mare-inregistrata-vreodata-1148898",
+      "recrawled": 1560952864151,
+      "updateCount": 1,
+      "fingerprint": "12b89391",
+      "content":          {
+        "content": "Cea mai mare temperatură la nivel mondial a fost înregistrată în Kuweit, 63 de grade Celsius la soare, potrivit autorităților locale, însă cifrele trebuie să fie confirmate de specialiștii World Meteorological Organisation (WMO), potrivit gulfnews.com, citată de MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "title": "Țara în care temperatura a ajuns la 63 de grade Celsius, cea mai mare înregistrată vreodată pe Terra",
+      "summary":          {
+        "content": "Cea mai mare temperatură la nivel mondial a fost înregistrată în Kuweit, 63 de grade Celsius la soare, potrivit autorităților locale, însă cifrele trebuie să fie confirmate de specialiștii World Meteorological Organisation (WMO), potrivit gulfnews.com, citată de MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg2NF8xMDg1/ODY0X0dldHR5SW1hZ2VzLTkyNjU0Nzc1/Ni5qcGcmaGFzaD05M2YwNGM3NmU1OWMyNzg5YzQyMTBmYTI4MTA4N2ZjNQ==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/meteo/tara-in-care-temperatura-a-ajuns-la-63-de-grade-celsius-cea-mai-mare-inregistrata-vreodata-1148898",
+        "type": "text/html"
+      }],
+      "crawled": 1560951984612,
+      "published": 1560952471000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg2NF8xMDg1/ODY0X0dldHR5SW1hZ2VzLTkyNjU0Nzc1/Ni5qcGcmaGFzaD05M2YwNGM3NmU1OWMyNzg5YzQyMTBmYTI4MTA4N2ZjNQ==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/meteo/tara-in-care-temperatura-a-ajuns-la-63-de-grade-celsius-cea-mai-mare-inregistrata-vreodata-1148898",
+      "ampUrl": "https://www.digi24.ro/amphtml/meteo/tara-in-care-temperatura-a-ajuns-la-63-de-grade-celsius-cea-mai-mare-inregistrata-vreodata-1148898",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/meteo/tara-in-care-temperatura-a-ajuns-la-63-de-grade-celsius-cea-mai-mare-inregistrata-vreodata-1148898",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 206,
+      "engagementRate": 0.34
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6ff676cc:1a03b6:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/fifor-raspuns-pentru-iohannis-nu-era-nevoie-de-acest-indemn-al-presedintelui-1148893",
+      "fingerprint": "4ba493ad",
+      "content":          {
+        "content": "Purtătorul de cuvât al PSD, Mihai Fifor, a declarat, miercuri, după mesajul preşedintelui Klaus Iohannis, că şi formaţiunea sa a luat în calcul introducerea modificărilor pentru alegeri, relatează MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "title": "Fifor, răspuns pentru Iohannis: Nu era nevoie de acest îndemn al președintelui",
+      "summary":          {
+        "content": "Purtătorul de cuvât al PSD, Mihai Fifor, a declarat, miercuri, după mesajul preşedintelui Klaus Iohannis, că şi formaţiunea sa a luat în calcul introducerea modificărilor pentru alegeri, relatează MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwOCUyRjExJTJGOTYzMDk0Xzk2MzA5/NF8xNzA5MTJfbWloYWktZmlmb3JfTUlO/SVNUUklJX1BTRF8wMl9JTlFVQU1fUGhv/dG9zX09jdGF2X0dhbmVhLmpwZyZoYXNo/PTJjOTRkZTZiYzVmYzQ4MGVjNTc1ZDEzYzJiMDMzYWRh.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/fifor-raspuns-pentru-iohannis-nu-era-nevoie-de-acest-indemn-al-presedintelui-1148893",
+        "type": "text/html"
+      }],
+      "crawled": 1560951551692,
+      "published": 1560951371000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwOCUyRjExJTJGOTYzMDk0Xzk2MzA5/NF8xNzA5MTJfbWloYWktZmlmb3JfTUlO/SVNUUklJX1BTRF8wMl9JTlFVQU1fUGhv/dG9zX09jdGF2X0dhbmVhLmpwZyZoYXNo/PTJjOTRkZTZiYzVmYzQ4MGVjNTc1ZDEzYzJiMDMzYWRh.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/fifor-raspuns-pentru-iohannis-nu-era-nevoie-de-acest-indemn-al-presedintelui-1148893",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/fifor-raspuns-pentru-iohannis-nu-era-nevoie-de-acest-indemn-al-presedintelui-1148893",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/fifor-raspuns-pentru-iohannis-nu-era-nevoie-de-acest-indemn-al-presedintelui-1148893",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 443,
+      "engagementRate": 0.72
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6fe25b61:180c2e:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/externe/mapamond/cine-sunt-cei-patru-indivizi-care-vor-fi-judecati-pentru-crima-in-cazul-prabusirii-avionului-mh17-mama-putin-e-vinovat-1148888",
+      "fingerprint": "73d41b87",
+      "content":          {
+        "content": "Cine sunt cei patru indivizi care vor fi judecați pentru crimă în cazul prăbușirii avionului MH17. Mamă: Putin e vinovat",
+        "direction": "ltr"
+      },
+      "title": "Cine sunt cei patru indivizi care vor fi judecați pentru crimă în cazul prăbușirii avionului MH17. Mamă: Putin e vinovat",
+      "summary":          {
+        "content": "Cine sunt cei patru indivizi care vor fi judecați pentru crimă în cazul prăbușirii avionului MH17. Mamă: Putin e vinovat",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg1NF8xMDg1/ODU0X2FnZXJwcmVzXzEyNjAzNDA0Lmpw/ZWcmaGFzaD02NzE1NWFmMjM1YmQwZTQzYWQyYTUxNmY0MTE0MjdjOQ==.jpeg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/externe/mapamond/cine-sunt-cei-patru-indivizi-care-vor-fi-judecati-pentru-crima-in-cazul-prabusirii-avionului-mh17-mama-putin-e-vinovat-1148888",
+        "type": "text/html"
+      }],
+      "crawled": 1560950233953,
+      "published": 1560949923000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg1NF8xMDg1/ODU0X2FnZXJwcmVzXzEyNjAzNDA0Lmpw/ZWcmaGFzaD02NzE1NWFmMjM1YmQwZTQzYWQyYTUxNmY0MTE0MjdjOQ==.jpeg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/externe/mapamond/cine-sunt-cei-patru-indivizi-care-vor-fi-judecati-pentru-crima-in-cazul-prabusirii-avionului-mh17-mama-putin-e-vinovat-1148888",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/externe/mapamond/cine-sunt-cei-patru-indivizi-care-vor-fi-judecati-pentru-crima-in-cazul-prabusirii-avionului-mh17-mama-putin-e-vinovat-1148888",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/externe/mapamond/cine-sunt-cei-patru-indivizi-care-vor-fi-judecati-pentru-crima-in-cazul-prabusirii-avionului-mh17-mama-putin-e-vinovat-1148888",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 97,
+      "engagementRate": 0.15
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6fc19798:876221:73d34570",
+      "originId": "https://www.digi24.ro/stiri/externe/mapamond/adidas-a-pierdut-marca-cu-cele-trei-dungi-paralele-decizia-luata-de-tribunalul-ue-1148875",
+      "fingerprint": "8f670db7",
+      "content":          {
+        "content": "Cele trei dungi paralele, marca folosită de producătorul german de echipamente sportive Adidas, nu mai sunt recunoscute la nivel european drept marcă înregistrată a companiei.",
+        "direction": "ltr"
+      },
+      "title": "Adidas a pierdut marca cu cele trei dungi paralele. Decizia luată de Tribunalul UE",
+      "summary":          {
+        "content": "Cele trei dungi paralele, marca folosită de producătorul german de echipamente sportive Adidas, nu mai sunt recunoscute la nivel european drept marcă înregistrată a companiei.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg0NV8xMDg1/ODQ1X0dldHR5SW1hZ2VzLTk3MTA0OTgw/OC5qcGcmaGFzaD03MWRhY2ZkZTE1ODMwZTcyY2VkZmQ5MmE1YzcwMWZmYw==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/externe/mapamond/adidas-a-pierdut-marca-cu-cele-trei-dungi-paralele-decizia-luata-de-tribunalul-ue-1148875",
+        "type": "text/html"
+      }],
+      "crawled": 1560948086680,
+      "published": 1560947806000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTg0NV8xMDg1/ODQ1X0dldHR5SW1hZ2VzLTk3MTA0OTgw/OC5qcGcmaGFzaD03MWRhY2ZkZTE1ODMwZTcyY2VkZmQ5MmE1YzcwMWZmYw==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/externe/mapamond/adidas-a-pierdut-marca-cu-cele-trei-dungi-paralele-decizia-luata-de-tribunalul-ue-1148875",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/externe/mapamond/adidas-a-pierdut-marca-cu-cele-trei-dungi-paralele-decizia-luata-de-tribunalul-ue-1148875",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/externe/mapamond/adidas-a-pierdut-marca-cu-cele-trei-dungi-paralele-decizia-luata-de-tribunalul-ue-1148875",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 1186,
+      "engagementRate": 1.62
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6fbb0537:86a1eb:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/scrisoarea-lui-klaus-iohannis-catre-dancila-si-parlament-sa-poata-vota-toti-cei-care-la-inchiderea-urnelor-se-afla-la-coada-1148878",
+      "fingerprint": "fa328de6",
+      "content":          {
+        "content": "Președintele României, Klaus Iohannis, a transmis joi o scrisoare premierului Viorica Dăncilă și președinților celor două camere ale Parlamentului, în care le solicită modificarea urgentă a legilor electorale astfel încât la alegerile prezidențiale, votul să se desfășoare în cu totul alt mod. Președintele cere inclusiv ca legea să prevadă că votarea se prelungește până ce toți cei care se află la coadă la ora 21, ora închiderii urnelor, au votat.",
+        "direction": "ltr"
+      },
+      "title": "Scrisoarea lui Klaus Iohannis către Dăncilă și Parlament: Să poată vota toți cei care la închiderea urnelor se află la coadă",
+      "summary":          {
+        "content": "Președintele României, Klaus Iohannis, a transmis joi o scrisoare premierului Viorica Dăncilă și președinților celor două camere ale Parlamentului, în care le solicită modificarea urgentă a legilor electorale astfel încât la alegerile prezidențiale, votul să se desfășoare în cu totul alt mod. Președintele cere inclusiv ca legea să prevadă că votarea se prelungește până ce toți cei care se află la coadă la ora 21, ora închiderii urnelor, au votat.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI2JTJGMTA3ODQyNF8xMDc4/NDI0X2tsYXVzLWlvaGFubmlzLXZvdC1h/bGVnZXJpLWV1cm9wYXJsYW1lbnRhcmUt/MjAxOS1yZWZlcmVuZHVtLXByZXNpZGVu/Y3ktOC5qcGcmaGFzaD00Y2RmZTZkZmQ4YWUwOWYwZDQ4ZTE4YzYyOGRmNDI4Yw==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/scrisoarea-lui-klaus-iohannis-catre-dancila-si-parlament-sa-poata-vota-toti-cei-care-la-inchiderea-urnelor-se-afla-la-coada-1148878",
+        "type": "text/html"
+      }],
+      "crawled": 1560947655991,
+      "published": 1560947563000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI2JTJGMTA3ODQyNF8xMDc4/NDI0X2tsYXVzLWlvaGFubmlzLXZvdC1h/bGVnZXJpLWV1cm9wYXJsYW1lbnRhcmUt/MjAxOS1yZWZlcmVuZHVtLXByZXNpZGVu/Y3ktOC5qcGcmaGFzaD00Y2RmZTZkZmQ4YWUwOWYwZDQ4ZTE4YzYyOGRmNDI4Yw==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/scrisoarea-lui-klaus-iohannis-catre-dancila-si-parlament-sa-poata-vota-toti-cei-care-la-inchiderea-urnelor-se-afla-la-coada-1148878",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/scrisoarea-lui-klaus-iohannis-catre-dancila-si-parlament-sa-poata-vota-toti-cei-care-la-inchiderea-urnelor-se-afla-la-coada-1148878",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/scrisoarea-lui-klaus-iohannis-catre-dancila-si-parlament-sa-poata-vota-toti-cei-care-la-inchiderea-urnelor-se-afla-la-coada-1148878",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 660,
+      "engagementRate": 0.87
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6fadee7b:854ce7:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/superman-a-fost-amendat-de-politia-romana-imaginile-au-devenit-virale-pe-internet-1148850",
+      "fingerprint": "5f2f95fc",
+      "content":          {
+        "content": "Superman a fost tras pe dreapta de poliţiştii români. S-a întâmplat în judeţul Ilfov, acolo unde un bărbat costumat în celebrul supererou mergea cu rolele pe marginea şoselei.",
+        "direction": "ltr"
+      },
+      "title": "Superman a fost amendat de Poliția Română. Imaginile au devenit virale pe internet",
+      "summary":          {
+        "content": "Superman a fost tras pe dreapta de poliţiştii români. S-a întâmplat în judeţul Ilfov, acolo unde un bărbat costumat în celebrul supererou mergea cu rolele pe marginea şoselei.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTgxMl8xMDg1/ODEyX3N1cGVybWFuLmpwZyZoYXNoPWQ5/MjFkNzAxMDYxYTk5MWE3ZGY1MGZmZDQ5YmY4MGZj.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/superman-a-fost-amendat-de-politia-romana-imaginile-au-devenit-virale-pe-internet-1148850",
+        "type": "text/html"
+      }],
+      "crawled": 1560946798203,
+      "published": 1560946777000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTgxMl8xMDg1/ODEyX3N1cGVybWFuLmpwZyZoYXNoPWQ5/MjFkNzAxMDYxYTk5MWE3ZGY1MGZmZDQ5YmY4MGZj.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/superman-a-fost-amendat-de-politia-romana-imaginile-au-devenit-virale-pe-internet-1148850",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/superman-a-fost-amendat-de-politia-romana-imaginile-au-devenit-virale-pe-internet-1148850",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/superman-a-fost-amendat-de-politia-romana-imaginile-au-devenit-virale-pe-internet-1148850",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 970,
+      "engagementRate": 1.22
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6fa76d72:84b167:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/rica-raducanu-a-fost-operat-la-spitalul-colentina-din-bucuresti-care-este-starea-fostului-portar-1148866",
+      "recrawled": 1560946798203,
+      "updateCount": 1,
+      "fingerprint": "59936ed",
+      "content":          {
+        "content": "Fostul portar al naționalei României Rică Răducanu este internat la Spitalul Colentina din Capitală după ce a fost supus unei intervenții chirurgicale, au precizat, pentru MEDIAFAX, oficiali ai unității. Operația a decurs bine, Răducanu urmând să fie externat săptămâna viitoare.",
+        "direction": "ltr"
+      },
+      "title": "Rică Răducanu a fost operat la Spitalul Colentina din București. Care este starea fostului portar",
+      "summary":          {
+        "content": "Fostul portar al naționalei României Rică Răducanu este internat la Spitalul Colentina din Capitală după ce a fost supus unei intervenții chirurgicale, au precizat, pentru MEDIAFAX, oficiali ai unității. Operația a decurs bine, Răducanu urmând să fie externat săptămâna viitoare.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwNiUyRjAzJTJGOTIxODk0XzkyMTg5/NF9yaWNhLXJhZHVjYW51LXNlcmlvcy5q/cGcmaGFzaD0wNzUwOGFmOWU5Nzk2NDRlOTM1NzRhMDFiMDNhZWVjZQ==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/rica-raducanu-a-fost-operat-la-spitalul-colentina-din-bucuresti-care-este-starea-fostului-portar-1148866",
+        "type": "text/html"
+      }],
+      "crawled": 1560946371954,
+      "published": 1560946349000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwNiUyRjAzJTJGOTIxODk0XzkyMTg5/NF9yaWNhLXJhZHVjYW51LXNlcmlvcy5q/cGcmaGFzaD0wNzUwOGFmOWU5Nzk2NDRlOTM1NzRhMDFiMDNhZWVjZQ==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/rica-raducanu-a-fost-operat-la-spitalul-colentina-din-bucuresti-care-este-starea-fostului-portar-1148866",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 90,
+      "engagementRate": 0.11
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6fa0d82e:841457:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/incendiu-la-spitalul-cfr-constanta-60-de-persoane-au-fost-evacuate-1148862",
+      "fingerprint": "42763387",
+      "content":          {
+        "content": "Un incendiu a izbucnit, miercuri după-amiază, la Spitalul CFR din municipiul Constanţa, 60 de persoane fiind evacuate. Pompierii au reuşit să stingă rapid focul care se manifesta în podul unităţii medicale, flăcările distrugând deşeuri şi mase plastice.",
+        "direction": "ltr"
+      },
+      "title": "Incendiu la Spitalul CFR Constanţa. 60 de persoane au fost evacuate",
+      "summary":          {
+        "content": "Un incendiu a izbucnit, miercuri după-amiază, la Spitalul CFR din municipiul Constanţa, 60 de persoane fiind evacuate. Pompierii au reuşit să stingă rapid focul care se manifesta în podul unităţii medicale, flăcările distrugând deşeuri şi mase plastice.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTgyMV8xMDg1/ODIxX2luY2VuZGl1LWNmci1jb25zdGFu/dGEuanBnJmhhc2g9NGQ1ZmRjNWExM2RhZmIwZmU1MjcxOTlmMDMwM2I2ZTA=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/incendiu-la-spitalul-cfr-constanta-60-de-persoane-au-fost-evacuate-1148862",
+        "type": "text/html"
+      }],
+      "crawled": 1560945940526,
+      "published": 1560945698000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "processor": "feedly-nikon-v3.1",
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNiUyRjE5JTJGMTA4NTgyMV8xMDg1/ODIxX2luY2VuZGl1LWNmci1jb25zdGFu/dGEuanBnJmhhc2g9NGQ1ZmRjNWExM2RhZmIwZmU1MjcxOTlmMDMwM2I2ZTA=.jpg",
+        "width": 860,
+        "height": 483,
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/incendiu-la-spitalul-cfr-constanta-60-de-persoane-au-fost-evacuate-1148862",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/incendiu-la-spitalul-cfr-constanta-60-de-persoane-au-fost-evacuate-1148862",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/incendiu-la-spitalul-cfr-constanta-60-de-persoane-au-fost-evacuate-1148862",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 83,
+      "engagementRate": 0.1
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b6f9a222d:13a768:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/externe/ue/nicolas-sarkozy-va-fi-judecat-pentru-coruptie-ce-contine-dosarul-fostului-presedinte-francez-1148857",
+      "fingerprint": "5fededda",
+      "content":          {
+        "content": "Fostul preşedinte al Franţei Nicolas Sarkozy a fost inculpat, miercuri, pentru acte de corupţie, într-o investigaţie privind interceptări telefonice, afirmă surse judiciare citate de Agenţia France-Presse şi de cotidianul Le Figaro, scrie MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "title": "Nicolas Sarkozy va fi judecat pentru corupţie. Ce conține dosarul fostului președinte francez",
+      "summary":          {
+        "content": "Fostul preşedinte al Franţei Nicolas Sarkozy a fost inculpat, miercuri, pentru acte de corupţie, într-o investigaţie privind interceptări telefonice, afirmă surse judiciare citate de Agenţia France-Presse şi de cotidianul Le Figaro, scrie MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTYl/MkYwOSUyRjE0JTJGNjgwOTAwXzY4MDkw/MF9HZXR0eUltYWdlcy0xNDI5Mzc3ODEu/anBnJmhhc2g9MjU2YmMzNzgzNmFkY2Q4MzFiMTA5MzUxYmRkNTZiM2E=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/externe/ue/nicolas-sarkozy-va-fi-judecat-pentru-coruptie-ce-contine-dosarul-fostului-presedinte-francez-1148857",
+        "type": "text/html"
+      }],
+      "crawled": 1560945500717,
+      "published": 1560945193000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTYl/MkYwOSUyRjE0JTJGNjgwOTAwXzY4MDkw/MF9HZXR0eUltYWdlcy0xNDI5Mzc3ODEu/anBnJmhhc2g9MjU2YmMzNzgzNmFkY2Q4MzFiMTA5MzUxYmRkNTZiM2E=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/externe/ue/nicolas-sarkozy-va-fi-judecat-pentru-coruptie-ce-contine-dosarul-fostului-presedinte-francez-1148857",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/externe/ue/nicolas-sarkozy-va-fi-judecat-pentru-coruptie-ce-contine-dosarul-fostului-presedinte-francez-1148857",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/externe/ue/nicolas-sarkozy-va-fi-judecat-pentru-coruptie-ce-contine-dosarul-fostului-presedinte-francez-1148857",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 346,
+      "engagementRate": 0.41
+    }
+  ]
+}

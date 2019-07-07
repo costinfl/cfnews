@@ -1,0 +1,933 @@
+{
+  "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+  "updated": 1560965131923,
+  "continuation": "16b703bf784:932986:73d34570",
+  "items":    [
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b70c5ae93:2f047f:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/orban-se-poate-spune-ca-au-fost-fraudate-alegerile-pentru-ca-mai-multi-au-oameni-nu-au-putut-sa-voteze-1148984",
+      "fingerprint": "9eb2f63f",
+      "content":          {
+        "content": "Ludovic Orban a declarat la Jurnalul de Seară de la Digi24 că afirmația conform cărora alegerile ar fi fost fraudate este „o chestie de cascadorii râsului” şi că „alegerile au fost atât de corecte cât de bine organizate au fost de acest guvern”.",
+        "direction": "ltr"
+      },
+      "title": "Orban: Se poate spune că au fost fraudate alegerile pentru că mai mulți au oameni nu au putut să voteze",
+      "summary":          {
+        "content": "Ludovic Orban a declarat la Jurnalul de Seară de la Digi24 că afirmația conform cărora alegerile ar fi fost fraudate este „o chestie de cascadorii râsului” şi că „alegerile au fost atât de corecte cât de bine organizate au fost de acest guvern”.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMSUyRjI4JTJGMTAzNDY4Ml8xMDM0/NjgyX2x1ZG92aWMtb3JiYW4taW5xdWFt/LW9jdGF2LWdhbmVhLnBuZyZoYXNoPTU4/MWNjZWU2ODdkYWYwMWY0ZDNlZDBiNzQ0NzZlYzEz.png",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/orban-se-poate-spune-ca-au-fost-fraudate-alegerile-pentru-ca-mai-multi-au-oameni-nu-au-putut-sa-voteze-1148984",
+        "type": "text/html"
+      }],
+      "crawled": 1560965131923,
+      "published": 1560964807000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMSUyRjI4JTJGMTAzNDY4Ml8xMDM0/NjgyX2x1ZG92aWMtb3JiYW4taW5xdWFt/LW9jdGF2LWdhbmVhLnBuZyZoYXNoPTU4/MWNjZWU2ODdkYWYwMWY0ZDNlZDBiNzQ0NzZlYzEz.png",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/orban-se-poate-spune-ca-au-fost-fraudate-alegerile-pentru-ca-mai-multi-au-oameni-nu-au-putut-sa-voteze-1148984",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 20,
+      "engagementRate": 0.28
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b70c5ae93:2f047e:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/rovana-plumb-aleasa-vicepresedinte-al-grupului-socialistilor-din-parlamentul-european-1148982",
+      "fingerprint": "5acc2124",
+      "content":          {
+        "content": "Europarlamentarul PSD Rovana Plumb a fost aleasă, miercuri, într-un post de vicepreşedinte al grupului socialiştilor din Parlamentul European.",
+        "direction": "ltr"
+      },
+      "title": "Rovana Plumb, aleasă vicepreşedinte al grupului socialiştilor din Parlamentul European",
+      "summary":          {
+        "content": "Europarlamentarul PSD Rovana Plumb a fost aleasă, miercuri, într-un post de vicepreşedinte al grupului socialiştilor din Parlamentul European.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjE0JTJGMTA0MjAzMl8xMDQy/MDMyX1JPVkFOQV9QTFVNQl8xNzAyMjNf/Q09UUk9DRU5JX01JTklTVFJJX05PSV9K/VVNUXzQyX0lOUVVBTV9QSE9UT1NfT2N0/YXZfR2FuZWEuanBnJmhhc2g9ZTA4NTA0/OWRkNTEwOTFjOWExNzNkMmE0ZDgyMTZkNTg=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/rovana-plumb-aleasa-vicepresedinte-al-grupului-socialistilor-din-parlamentul-european-1148982",
+        "type": "text/html"
+      }],
+      "crawled": 1560965131923,
+      "published": 1560963753000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjE0JTJGMTA0MjAzMl8xMDQy/MDMyX1JPVkFOQV9QTFVNQl8xNzAyMjNf/Q09UUk9DRU5JX01JTklTVFJJX05PSV9K/VVNUXzQyX0lOUVVBTV9QSE9UT1NfT2N0/YXZfR2FuZWEuanBnJmhhc2g9ZTA4NTA0/OWRkNTEwOTFjOWExNzNkMmE0ZDgyMTZkNTg=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/rovana-plumb-aleasa-vicepresedinte-al-grupului-socialistilor-din-parlamentul-european-1148982",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 33,
+      "engagementRate": 0.46
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b70c5ae93:2f047d:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/sanatate/invazie-de-tantari-in-romania-cat-de-periculosi-sunt-si-cum-sa-va-protejati-1148976",
+      "fingerprint": "58bab835",
+      "content":          {
+        "content": "În plină vară, marile oraşe din România se confruntă cu o invazie a ţânţarilor. Oamenii îndreaptă degetul înspre autorităţi şi spun că au început prea târziu stârpirea acestora sau că nu au făcut nimic până acum. La rândul lor, cei responsabili spun că ploile din ultima vreme nu le-au permis să combată eficient aceste insecte mici, care însă pot produce boli grave. Ca să ne facem o idee la ce pericol suntem expuşi, virusul West Nile, transmis de ţânţari, a provocat moartea a 42 de români, în 2018.",
+        "direction": "ltr"
+      },
+      "title": "Invazie de țânțari în România. Cât de periculoși sunt și cum să vă protejați",
+      "summary":          {
+        "content": "În plină vară, marile oraşe din România se confruntă cu o invazie a ţânţarilor. Oamenii îndreaptă degetul înspre autorităţi şi spun că au început prea târziu stârpirea acestora sau că nu au făcut nimic până acum. La rândul lor, cei responsabili spun că ploile din ultima vreme nu le-au permis să combată eficient aceste insecte mici, care însă pot produce boli grave. Ca să ne facem o idee la ce pericol suntem expuşi, virusul West Nile, transmis de ţânţari, a provocat moartea a 42 de români, în 2018.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTYl/MkYwOCUyRjA1JTJGNjY0NDEwXzY2NDQx/MF9UYW50YXJpX3ZpcnVzdWxfWmlrYV9H/ZXR0eUltYWdlcy01MDY5NzIwNjIuanBn/Jmhhc2g9YWQzYmFlYjFiYzljMDJlZDc4YzFkMDdhY2VhZDZlMjM=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/sanatate/invazie-de-tantari-in-romania-cat-de-periculosi-sunt-si-cum-sa-va-protejati-1148976",
+        "type": "text/html"
+      }],
+      "crawled": 1560965131923,
+      "published": 1560963563000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTYl/MkYwOCUyRjA1JTJGNjY0NDEwXzY2NDQx/MF9UYW50YXJpX3ZpcnVzdWxfWmlrYV9H/ZXR0eUltYWdlcy01MDY5NzIwNjIuanBn/Jmhhc2g9YWQzYmFlYjFiYzljMDJlZDc4YzFkMDdhY2VhZDZlMjM=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/sanatate/invazie-de-tantari-in-romania-cat-de-periculosi-sunt-si-cum-sa-va-protejati-1148976",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 180,
+      "engagementRate": 2.54
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70c3d7df:a12dfd:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/orban-se-poate-spune-ca-au-fost-fraudate-alegerile-pentru-ca-mai-multi-au-oameni-nu-au-putut-sa-voteze-1148984",
+      "recrawled": 1560965864937,
+      "updateCount": 1,
+      "fingerprint": "cbc24584",
+      "content":          {
+        "content": "Ludovic Orban a declarat la Jurnalul de Seară de la Digi24 că afirmația conform cărora alegerile ar fi fost fraudate este „o chestie de cascadorii râsului” şi că „alegerile au fost atât de corecte cât de bine organizate au fost de acest guvern”.",
+        "direction": "ltr"
+      },
+      "title": "Orban: Se poate spune că au fost fraudate alegerile pentru că mulți oameni nu au putut să voteze",
+      "summary":          {
+        "content": "Ludovic Orban a declarat la Jurnalul de Seară de la Digi24 că afirmația conform cărora alegerile ar fi fost fraudate este „o chestie de cascadorii râsului” şi că „alegerile au fost atât de corecte cât de bine organizate au fost de acest guvern”.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMSUyRjI4JTJGMTAzNDY4Ml8xMDM0/NjgyX2x1ZG92aWMtb3JiYW4taW5xdWFt/LW9jdGF2LWdhbmVhLnBuZyZoYXNoPTU4/MWNjZWU2ODdkYWYwMWY0ZDNlZDBiNzQ0NzZlYzEz.png",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/orban-se-poate-spune-ca-au-fost-fraudate-alegerile-pentru-ca-mai-multi-au-oameni-nu-au-putut-sa-voteze-1148984",
+        "type": "text/html"
+      }],
+      "crawled": 1560965011423,
+      "published": 1560965561000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMSUyRjI4JTJGMTAzNDY4Ml8xMDM0/NjgyX2x1ZG92aWMtb3JiYW4taW5xdWFt/LW9jdGF2LWdhbmVhLnBuZyZoYXNoPTU4/MWNjZWU2ODdkYWYwMWY0ZDNlZDBiNzQ0NzZlYzEz.png",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/orban-se-poate-spune-ca-au-fost-fraudate-alegerile-pentru-ca-mai-multi-au-oameni-nu-au-putut-sa-voteze-1148984",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/orban-se-poate-spune-ca-au-fost-fraudate-alegerile-pentru-ca-mai-multi-au-oameni-nu-au-putut-sa-voteze-1148984",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/orban-se-poate-spune-ca-au-fost-fraudate-alegerile-pentru-ca-mai-multi-au-oameni-nu-au-putut-sa-voteze-1148984",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 4,
+      "engagementRate": 0.1
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70b697d5:9fb9ca:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/rovana-plumb-aleasa-vicepresedinte-al-grupului-socialistilor-din-parlamentul-european-1148982",
+      "fingerprint": "5acc2124",
+      "content":          {
+        "content": "Europarlamentarul PSD Rovana Plumb a fost aleasă, miercuri, într-un post de vicepreşedinte al grupului socialiştilor din Parlamentul European.",
+        "direction": "ltr"
+      },
+      "title": "Rovana Plumb, aleasă vicepreşedinte al grupului socialiştilor din Parlamentul European",
+      "summary":          {
+        "content": "Europarlamentarul PSD Rovana Plumb a fost aleasă, miercuri, într-un post de vicepreşedinte al grupului socialiştilor din Parlamentul European.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjE0JTJGMTA0MjAzMl8xMDQy/MDMyX1JPVkFOQV9QTFVNQl8xNzAyMjNf/Q09UUk9DRU5JX01JTklTVFJJX05PSV9K/VVNUXzQyX0lOUVVBTV9QSE9UT1NfT2N0/YXZfR2FuZWEuanBnJmhhc2g9ZTA4NTA0/OWRkNTEwOTFjOWExNzNkMmE0ZDgyMTZkNTg=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/rovana-plumb-aleasa-vicepresedinte-al-grupului-socialistilor-din-parlamentul-european-1148982",
+        "type": "text/html"
+      }],
+      "crawled": 1560964143061,
+      "published": 1560963753000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjE0JTJGMTA0MjAzMl8xMDQy/MDMyX1JPVkFOQV9QTFVNQl8xNzAyMjNf/Q09UUk9DRU5JX01JTklTVFJJX05PSV9K/VVNUXzQyX0lOUVVBTV9QSE9UT1NfT2N0/YXZfR2FuZWEuanBnJmhhc2g9ZTA4NTA0/OWRkNTEwOTFjOWExNzNkMmE0ZDgyMTZkNTg=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/rovana-plumb-aleasa-vicepresedinte-al-grupului-socialistilor-din-parlamentul-european-1148982",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/rovana-plumb-aleasa-vicepresedinte-al-grupului-socialistilor-din-parlamentul-european-1148982",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/rovana-plumb-aleasa-vicepresedinte-al-grupului-socialistilor-din-parlamentul-european-1148982",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 4,
+      "engagementRate": 0.04
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70aff84d:2f8439:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/actualitate/sanatate/invazie-de-tantari-in-romania-cat-de-periculosi-sunt-si-cum-sa-va-protejati-1148976",
+      "fingerprint": "58bab835",
+      "content":          {
+        "content": "În plină vară, marile oraşe din România se confruntă cu o invazie a ţânţarilor. Oamenii îndreaptă degetul înspre autorităţi şi spun că au început prea târziu stârpirea acestora sau că nu au făcut nimic până acum. La rândul lor, cei responsabili spun că ploile din ultima vreme nu le-au permis să combată eficient aceste insecte mici, care însă pot produce boli grave. Ca să ne facem o idee la ce pericol suntem expuşi, virusul West Nile, transmis de ţânţari, a provocat moartea a 42 de români, în 2018.",
+        "direction": "ltr"
+      },
+      "title": "Invazie de țânțari în România. Cât de periculoși sunt și cum să vă protejați",
+      "summary":          {
+        "content": "În plină vară, marile oraşe din România se confruntă cu o invazie a ţânţarilor. Oamenii îndreaptă degetul înspre autorităţi şi spun că au început prea târziu stârpirea acestora sau că nu au făcut nimic până acum. La rândul lor, cei responsabili spun că ploile din ultima vreme nu le-au permis să combată eficient aceste insecte mici, care însă pot produce boli grave. Ca să ne facem o idee la ce pericol suntem expuşi, virusul West Nile, transmis de ţânţari, a provocat moartea a 42 de români, în 2018.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTYl/MkYwOCUyRjA1JTJGNjY0NDEwXzY2NDQx/MF9UYW50YXJpX3ZpcnVzdWxfWmlrYV9H/ZXR0eUltYWdlcy01MDY5NzIwNjIuanBn/Jmhhc2g9YWQzYmFlYjFiYzljMDJlZDc4YzFkMDdhY2VhZDZlMjM=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/sanatate/invazie-de-tantari-in-romania-cat-de-periculosi-sunt-si-cum-sa-va-protejati-1148976",
+        "type": "text/html"
+      }],
+      "crawled": 1560963709005,
+      "published": 1560963563000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTYl/MkYwOCUyRjA1JTJGNjY0NDEwXzY2NDQx/MF9UYW50YXJpX3ZpcnVzdWxfWmlrYV9H/ZXR0eUltYWdlcy01MDY5NzIwNjIuanBn/Jmhhc2g9YWQzYmFlYjFiYzljMDJlZDc4YzFkMDdhY2VhZDZlMjM=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/sanatate/invazie-de-tantari-in-romania-cat-de-periculosi-sunt-si-cum-sa-va-protejati-1148976",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 167,
+      "engagementRate": 1.16
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b70aa2a8b:9ebd59:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/reactii-de-la-bruxelles-dupa-alegerea-lui-ciolos-in-functia-de-lider-de-grup-al-renew-europe-1148973",
+      "fingerprint": "38be02c4",
+      "content":          {
+        "content": "Dacian Cioloș a fost felicitat de oficiali europeni pentru câștigarea funcției de șef de grup al noului grup liberal, Renew Europe, din Parlamentul European. Cioloș a primit mesaje de felicitare de la Guy Verhofstadt, fostul lider de grup al ALDE Europa, formațiune care va face parte din noul grup și Vera Jourova, actualul comisar european pentru Justiție. ",
+        "direction": "ltr"
+      },
+      "title": "Reacții de la Bruxelles după alegerea lui Cioloș în funcția de lider de grup al Renew Europe",
+      "summary":          {
+        "content": "Dacian Cioloș a fost felicitat de oficiali europeni pentru câștigarea funcției de șef de grup al noului grup liberal, Renew Europe, din Parlamentul European. Cioloș a primit mesaje de felicitare de la Guy Verhofstadt, fostul lider de grup al ALDE Europa, formațiune care va face parte din noul grup și Vera Jourova, actualul comisar european pentru Justiție. ",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjEzJTJGMTA0MTY1M18xMDQx/NjUzX2RhY2lhbi1jaW9sb3MtSUQxMDQw/MDdfSU5RVUFNX1Bob3Rvc19PY3Rhdl9H/YW5lYS0xLmpwZyZoYXNoPTc1MDZkNTQ0ODE1MTAyYzNkMGY2OGM1MGI2ZTNiODkx.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/reactii-de-la-bruxelles-dupa-alegerea-lui-ciolos-in-functia-de-lider-de-grup-al-renew-europe-1148973",
+        "type": "text/html"
+      }],
+      "crawled": 1560963328651,
+      "published": 1560963080000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjEzJTJGMTA0MTY1M18xMDQx/NjUzX2RhY2lhbi1jaW9sb3MtSUQxMDQw/MDdfSU5RVUFNX1Bob3Rvc19PY3Rhdl9H/YW5lYS0xLmpwZyZoYXNoPTc1MDZkNTQ0ODE1MTAyYzNkMGY2OGM1MGI2ZTNiODkx.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/reactii-de-la-bruxelles-dupa-alegerea-lui-ciolos-in-functia-de-lider-de-grup-al-renew-europe-1148973",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 1340,
+      "engagementRate": 6.26
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70a2d2bc:9e0de3:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/reactii-de-la-bruxelles-dupa-alegerea-lui-ciolos-in-functia-de-lider-de-grup-al-renew-europe-1148973",
+      "recrawled": 1560963276323,
+      "updateCount": 1,
+      "fingerprint": "38be02c4",
+      "content":          {
+        "content": "Dacian Cioloș a fost felicitat de oficiali europeni pentru câștigarea funcției de șef de grup al noului grup liberal, Renew Europe, din Parlamentul European. Cioloș a primit mesaje de felicitare de la Guy Verhofstadt, fostul lider de grup al ALDE Europa, formațiune care va face parte din noul grup și Vera Jourova, actualul comisar european pentru Justiție. ",
+        "direction": "ltr"
+      },
+      "title": "Reacții de la Bruxelles după alegerea lui Cioloș în funcția de lider de grup al Renew Europe",
+      "summary":          {
+        "content": "Dacian Cioloș a fost felicitat de oficiali europeni pentru câștigarea funcției de șef de grup al noului grup liberal, Renew Europe, din Parlamentul European. Cioloș a primit mesaje de felicitare de la Guy Verhofstadt, fostul lider de grup al ALDE Europa, formațiune care va face parte din noul grup și Vera Jourova, actualul comisar european pentru Justiție. ",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjEzJTJGMTA0MTY1M18xMDQx/NjUzX2RhY2lhbi1jaW9sb3MtSUQxMDQw/MDdfSU5RVUFNX1Bob3Rvc19PY3Rhdl9H/YW5lYS0xLmpwZyZoYXNoPTc1MDZkNTQ0ODE1MTAyYzNkMGY2OGM1MGI2ZTNiODkx.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/reactii-de-la-bruxelles-dupa-alegerea-lui-ciolos-in-functia-de-lider-de-grup-al-renew-europe-1148973",
+        "type": "text/html"
+      }],
+      "crawled": 1560962847420,
+      "published": 1560963080000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjEzJTJGMTA0MTY1M18xMDQx/NjUzX2RhY2lhbi1jaW9sb3MtSUQxMDQw/MDdfSU5RVUFNX1Bob3Rvc19PY3Rhdl9H/YW5lYS0xLmpwZyZoYXNoPTc1MDZkNTQ0ODE1MTAyYzNkMGY2OGM1MGI2ZTNiODkx.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/reactii-de-la-bruxelles-dupa-alegerea-lui-ciolos-in-functia-de-lider-de-grup-al-renew-europe-1148973",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 1125,
+      "engagementRate": 5.02
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b708e9e3b:9bd4b4:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "fingerprint": "e4ba9d1a",
+      "content":          {
+        "content": "Președintele ALDE, Călin Popescu Tăriceanu, le-a reproșat colegilor de partid, reuniți miercuri în ședință la palatul Parlamentului, rezultatul dezastruos înregistrat la alegerile europarlamentare din 26 mai, când formațiunea nu a reușit să treacă pragul minim de 5% pentru a obține un mandat în Parlamentul European, au declarat surse participante la discuții pentru Digi24.ro.",
+        "direction": "ltr"
+      },
+      "title": "Tăriceanu și-a certat partidul pentru dezastrul de la alegeri",
+      "summary":          {
+        "content": "Președintele ALDE, Călin Popescu Tăriceanu, le-a reproșat colegilor de partid, reuniți miercuri în ședință la palatul Parlamentului, rezultatul dezastruos înregistrat la alegerile europarlamentare din 26 mai, când formațiunea nu a reușit să treacă pragul minim de 5% pentru a obține un mandat în Parlamentul European, au declarat surse participante la discuții pentru Digi24.ro.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwMSUyRjI2JTJGODcwNTQzXzg3MDU0/M18xNzA2MTRfQ09ORkVSSU5UQV9EUkFH/TkVBX1RBUklDRUFOVV8wM19JTlFVQU1f/UGhvdG9zX0dlb3JnZV9DYWxpbi0xLmpw/ZyZoYXNoPTJkZmQ5MTUwNjYxMWZiNzJlN2U4NmI3YjZhMjBjMDVh.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+        "type": "text/html"
+      }],
+      "crawled": 1560961523259,
+      "published": 1560960832000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwMSUyRjI2JTJGODcwNTQzXzg3MDU0/M18xNzA2MTRfQ09ORkVSSU5UQV9EUkFH/TkVBX1RBUklDRUFOVV8wM19JTlFVQU1f/UGhvdG9zX0dlb3JnZV9DYWxpbi0xLmpw/ZyZoYXNoPTJkZmQ5MTUwNjYxMWZiNzJlN2U4NmI3YjZhMjBjMDVh.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 336,
+      "engagementRate": 0.99
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b708e9e3b:9bd4b3:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "fingerprint": "e3abeab6",
+      "content":          {
+        "content": "Penitenciarul Rahova a aprobat cererea fostului primar al Constanței, Radu Mazăre, de a se cununa cu iubita sa, a spus fratele fostului edil, Mihai Mazăre. Data urmează să fie fixată în funcție de disponibilitatea Primăriei Sectorului 5.",
+        "direction": "ltr"
+      },
+      "title": "Cererea de cununie a lui Radu Mazăre a fost aprobată. De ce depinde stabilirea datei",
+      "summary":          {
+        "content": "Penitenciarul Rahova a aprobat cererea fostului primar al Constanței, Radu Mazăre, de a se cununa cu iubita sa, a spus fratele fostului edil, Mihai Mazăre. Data urmează să fie fixată în funcție de disponibilitatea Primăriei Sectorului 5.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjE2JTJGMTA3NDM2OF8xMDc0/MzY4X3JhZHUtbWF6YXJlX2RuYV8wNF9J/TlFfT2N0YXZfR2FuZWEtMS5qcGcmaGFz/aD02YTcxODQ4YTA5NWI3NjNiN2U4ZjAzYTcwZGMyMGNhOQ==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+        "type": "text/html"
+      }],
+      "crawled": 1560961523259,
+      "published": 1560960642000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjE2JTJGMTA3NDM2OF8xMDc0/MzY4X3JhZHUtbWF6YXJlX2RuYV8wNF9J/TlFfT2N0YXZfR2FuZWEtMS5qcGcmaGFz/aD02YTcxODQ4YTA5NWI3NjNiN2U4ZjAzYTcwZGMyMGNhOQ==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 69,
+      "engagementRate": 0.2
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b70888caf:28b4ab:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "fingerprint": "e3abeab6",
+      "content":          {
+        "content": "Penitenciarul Rahova a aprobat cererea fostului primar al Constanței, Radu Mazăre, de a se cununa cu iubita sa, a spus fratele fostului edil, Mihai Mazăre. Data urmează să fie fixată în funcție de disponibilitatea Primăriei Sectorului 5.",
+        "direction": "ltr"
+      },
+      "title": "Cererea de cununie a lui Radu Mazăre a fost aprobată. De ce depinde stabilirea datei",
+      "summary":          {
+        "content": "Penitenciarul Rahova a aprobat cererea fostului primar al Constanței, Radu Mazăre, de a se cununa cu iubita sa, a spus fratele fostului edil, Mihai Mazăre. Data urmează să fie fixată în funcție de disponibilitatea Primăriei Sectorului 5.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjE2JTJGMTA3NDM2OF8xMDc0/MzY4X3JhZHUtbWF6YXJlX2RuYV8wNF9J/TlFfT2N0YXZfR2FuZWEtMS5qcGcmaGFz/aD02YTcxODQ4YTA5NWI3NjNiN2U4ZjAzYTcwZGMyMGNhOQ==.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+        "type": "text/html"
+      }],
+      "crawled": 1560961125551,
+      "published": 1560960642000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjE2JTJGMTA3NDM2OF8xMDc0/MzY4X3JhZHUtbWF6YXJlX2RuYV8wNF9J/TlFfT2N0YXZfR2FuZWEtMS5qcGcmaGFz/aD02YTcxODQ4YTA5NWI3NjNiN2U4ZjAzYTcwZGMyMGNhOQ==.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/cererea-de-cununie-a-lui-radu-mazare-a-fost-aprobata-de-ce-depinde-stabilirea-datei-1148962",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 88,
+      "engagementRate": 0.24
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7081e8a6:281519:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "fingerprint": "e4ba9d1a",
+      "content":          {
+        "content": "Președintele ALDE, Călin Popescu Tăriceanu, le-a reproșat colegilor de partid, reuniți miercuri în ședință la palatul Parlamentului, rezultatul dezastruos înregistrat la alegerile europarlamentare din 26 mai, când formațiunea nu a reușit să treacă pragul minim de 5% pentru a obține un mandat în Parlamentul European, au declarat surse participante la discuții pentru Digi24.ro.",
+        "direction": "ltr"
+      },
+      "title": "Tăriceanu și-a certat partidul pentru dezastrul de la alegeri",
+      "summary":          {
+        "content": "Președintele ALDE, Călin Popescu Tăriceanu, le-a reproșat colegilor de partid, reuniți miercuri în ședință la palatul Parlamentului, rezultatul dezastruos înregistrat la alegerile europarlamentare din 26 mai, când formațiunea nu a reușit să treacă pragul minim de 5% pentru a obține un mandat în Parlamentul European, au declarat surse participante la discuții pentru Digi24.ro.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwMSUyRjI2JTJGODcwNTQzXzg3MDU0/M18xNzA2MTRfQ09ORkVSSU5UQV9EUkFH/TkVBX1RBUklDRUFOVV8wM19JTlFVQU1f/UGhvdG9zX0dlb3JnZV9DYWxpbi0xLmpw/ZyZoYXNoPTJkZmQ5MTUwNjYxMWZiNzJlN2U4NmI3YjZhMjBjMDVh.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+        "type": "text/html"
+      }],
+      "crawled": 1560960690342,
+      "published": 1560960597000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwMSUyRjI2JTJGODcwNTQzXzg3MDU0/M18xNzA2MTRfQ09ORkVSSU5UQV9EUkFH/TkVBX1RBUklDRUFOVV8wM19JTlFVQU1f/UGhvdG9zX0dlb3JnZV9DYWxpbi0xLmpw/ZyZoYXNoPTJkZmQ5MTUwNjYxMWZiNzJlN2U4NmI3YjZhMjBjMDVh.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/tariceanu-si-a-certat-partidul-pentru-dezastrul-de-la-alegeri-1148955",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 349,
+      "engagementRate": 0.88
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7074bf49:299856:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "fingerprint": "bf821778",
+      "content":          {
+        "content": "Habar nu aveau de ce au ieşit românii în stradă. Îşi doreau doar să se bată cu jandarmii. Aşa explică judecătorii violenţele produse la protestele pentru OUG 13, din februarie 2017. Au condamnat 12 huligani la pedepse de până la 4 ani de închisoare. În motivarea deciziei, magistratul explică și cum fost pusă în pericol viaţa a 150.000 de oameni.",
+        "direction": "ltr"
+      },
+      "title": "Explicații pentru pedepsele de la protestul față de OUG 13",
+      "summary":          {
+        "content": "Habar nu aveau de ce au ieşit românii în stradă. Îşi doreau doar să se bată cu jandarmii. Aşa explică judecătorii violenţele produse la protestele pentru OUG 13, din februarie 2017. Au condamnat 12 huligani la pedepse de până la 4 ani de închisoare. În motivarea deciziei, magistratul explică și cum fost pusă în pericol viaţa a 150.000 de oameni.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMSUyRjAyJTJGOTk5ODgwXzk5OTg4/MF8xNzAyMDFfUElBVEFfVklDVE9SSUVJ/X1BST1RFU1RfVklPTEVOVEVfMDBfSU5R/VUFNX09jdGF2X0dhbmVhLmpwZyZoYXNo/PTFiYjMxZjY2MDBhYjZiMTAwOGZlNjUxODY1ZWYyNmMz.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+        "type": "text/html"
+      }],
+      "crawled": 1560959827785,
+      "published": 1560959713000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMSUyRjAyJTJGOTk5ODgwXzk5OTg4/MF8xNzAyMDFfUElBVEFfVklDVE9SSUVJ/X1BST1RFU1RfVklPTEVOVEVfMDBfSU5R/VUFNX09jdGF2X0dhbmVhLmpwZyZoYXNo/PTFiYjMxZjY2MDBhYjZiMTAwOGZlNjUxODY1ZWYyNmMz.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 300,
+      "engagementRate": 0.68
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b70731c76:26b1e6:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "recrawled": 1560961523259,
+      "updateCount": 1,
+      "fingerprint": "bf821778",
+      "content":          {
+        "content": "Habar nu aveau de ce au ieşit românii în stradă. Îşi doreau doar să se bată cu jandarmii. Aşa explică judecătorii violenţele produse la protestele pentru OUG 13, din februarie 2017. Au condamnat 12 huligani la pedepse de până la 4 ani de închisoare. În motivarea deciziei, magistratul explică și cum fost pusă în pericol viaţa a 150.000 de oameni.",
+        "direction": "ltr"
+      },
+      "title": "Explicații pentru pedepsele de la protestul față de OUG 13",
+      "summary":          {
+        "content": "Habar nu aveau de ce au ieşit românii în stradă. Îşi doreau doar să se bată cu jandarmii. Aşa explică judecătorii violenţele produse la protestele pentru OUG 13, din februarie 2017. Au condamnat 12 huligani la pedepse de până la 4 ani de închisoare. În motivarea deciziei, magistratul explică și cum fost pusă în pericol viaţa a 150.000 de oameni.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMSUyRjAyJTJGOTk5ODgwXzk5OTg4/MF8xNzAyMDFfUElBVEFfVklDVE9SSUVJ/X1BST1RFU1RfVklPTEVOVEVfMDBfSU5R/VUFNX09jdGF2X0dhbmVhLmpwZyZoYXNo/PTFiYjMxZjY2MDBhYjZiMTAwOGZlNjUxODY1ZWYyNmMz.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+        "type": "text/html"
+      }],
+      "crawled": 1560959720566,
+      "published": 1560959713000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMSUyRjAyJTJGOTk5ODgwXzk5OTg4/MF8xNzAyMDFfUElBVEFfVklDVE9SSUVJ/X1BST1RFU1RfVklPTEVOVEVfMDBfSU5R/VUFNX09jdGF2X0dhbmVhLmpwZyZoYXNo/PTFiYjMxZjY2MDBhYjZiMTAwOGZlNjUxODY1ZWYyNmMz.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/justitie/explicatii-pentru-pedepsele-de-la-protestul-fata-de-oug-13-1148956",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 281,
+      "engagementRate": 0.62
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b70731c76:26b1e5:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "fingerprint": "3251bc6c",
+      "content":          {
+        "content": "Proiectul de ordonanță de urgență privind reglementarea platformelor de ridesharing va intra joi în primă lectură în ședința de Guvern și va fi adoptat după ce primește avizul din partea Consiliului Economic şi Social, a anunţat ministrul Transporturilor. Răzvan Cuc.",
+        "direction": "ltr"
+      },
+      "title": "Cuc anunță că proiectul de OUG pe ridesharing intră în ședința de Guvern de joi. Ciolacu: Dacă nu, legea să intre la vot în Parlament",
+      "summary":          {
+        "content": "Proiectul de ordonanță de urgență privind reglementarea platformelor de ridesharing va intra joi în primă lectură în ședința de Guvern și va fi adoptat după ce primește avizul din partea Consiliului Economic şi Social, a anunţat ministrul Transporturilor. Răzvan Cuc.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjIwJTJGMTA3NTQ5OV8xMDc1/NDk5X3ViZXItR2V0dHlJbWFnZXMtMjkt/c2VwdC0xNS0xLmpwZyZoYXNoPTkwN2I5/OTQwZTQyNzJkNmNjNzMzMTBjNTEyZTkwM2Ni.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+        "type": "text/html"
+      }],
+      "crawled": 1560959720566,
+      "published": 1560958811000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjIwJTJGMTA3NTQ5OV8xMDc1/NDk5X3ViZXItR2V0dHlJbWFnZXMtMjkt/c2VwdC0xNS0xLmpwZyZoYXNoPTkwN2I5/OTQwZTQyNzJkNmNjNzMzMTBjNTEyZTkwM2Ni.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 59,
+      "engagementRate": 0.13
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b70731c76:26b1e4:b86676c0",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "fingerprint": "5e7aa785",
+      "content":          {
+        "content": "Călin Popescu Tăriceanu anunţă că susţine implementarea votului anticipat, despre care spune că a fost o idee a sa pe care a preluat-o preşedintele Klaus Iohannis. ",
+        "direction": "ltr"
+      },
+      "title": "Tăriceanu: Iohannis a preluat ideea noastră cu votul anticipat",
+      "summary":          {
+        "content": "Călin Popescu Tăriceanu anunţă că susţine implementarea votului anticipat, despre care spune că a fost o idee a sa pe care a preluat-o preşedintele Klaus Iohannis. ",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI5JTJGMTA3OTUxNl8xMDc5/NTE2X0lEODI4ODRfLXRhcmljZWFudS1J/TlFVQU1fUGhvdG9zX09jdGF2X0dhbmVh/LmpwZyZoYXNoPTlkMDg0NTYxMjJiZDdkYmI3MmE5OTQ5ODIxYTkxNjdk.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+        "type": "text/html"
+      }],
+      "crawled": 1560959720566,
+      "published": 1560958716000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI5JTJGMTA3OTUxNl8xMDc5/NTE2X0lEODI4ODRfLXRhcmljZWFudS1J/TlFVQU1fUGhvdG9zX09jdGF2X0dhbmVh/LmpwZyZoYXNoPTlkMDg0NTYxMjJiZDdkYmI3MmE5OTQ5ODIxYTkxNjdk.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 640,
+      "engagementRate": 1.42
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7067b690:2849d4:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "fingerprint": "5e7aa785",
+      "content":          {
+        "content": "Călin Popescu Tăriceanu anunţă că susţine implementarea votului anticipat, despre care spune că a fost o idee a sa pe care a preluat-o preşedintele Klaus Iohannis. ",
+        "direction": "ltr"
+      },
+      "title": "Tăriceanu: Iohannis a preluat ideea noastră cu votul anticipat",
+      "summary":          {
+        "content": "Călin Popescu Tăriceanu anunţă că susţine implementarea votului anticipat, despre care spune că a fost o idee a sa pe care a preluat-o preşedintele Klaus Iohannis. ",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI5JTJGMTA3OTUxNl8xMDc5/NTE2X0lEODI4ODRfLXRhcmljZWFudS1J/TlFVQU1fUGhvdG9zX09jdGF2X0dhbmVh/LmpwZyZoYXNoPTlkMDg0NTYxMjJiZDdkYmI3MmE5OTQ5ODIxYTkxNjdk.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+        "type": "text/html"
+      }],
+      "crawled": 1560958973584,
+      "published": 1560958716000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjI5JTJGMTA3OTUxNl8xMDc5/NTE2X0lEODI4ODRfLXRhcmljZWFudS1J/TlFVQU1fUGhvdG9zX09jdGF2X0dhbmVh/LmpwZyZoYXNoPTlkMDg0NTYxMjJiZDdkYmI3MmE5OTQ5ODIxYTkxNjdk.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/politica/tariceanu-iohannis-a-preluat-ideea-noastra-cu-votul-anticipat-1148947",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 633,
+      "engagementRate": 1.31
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7061236f:279c73:5e307cc6",
+      "originId": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "recrawled": 1560958973584,
+      "updateCount": 1,
+      "fingerprint": "3251bc6c",
+      "content":          {
+        "content": "Proiectul de ordonanță de urgență privind reglementarea platformelor de ridesharing va intra joi în primă lectură în ședința de Guvern și va fi adoptat după ce primește avizul din partea Consiliului Economic şi Social, a anunţat ministrul Transporturilor. Răzvan Cuc.",
+        "direction": "ltr"
+      },
+      "title": "Cuc anunță că proiectul de OUG pe ridesharing intră în ședința de Guvern de joi. Ciolacu: Dacă nu, legea să intre la vot în Parlament",
+      "summary":          {
+        "content": "Proiectul de ordonanță de urgență privind reglementarea platformelor de ridesharing va intra joi în primă lectură în ședința de Guvern și va fi adoptat după ce primește avizul din partea Consiliului Economic şi Social, a anunţat ministrul Transporturilor. Răzvan Cuc.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjIwJTJGMTA3NTQ5OV8xMDc1/NDk5X3ViZXItR2V0dHlJbWFnZXMtMjkt/c2VwdC0xNS0xLmpwZyZoYXNoPTkwN2I5/OTQwZTQyNzJkNmNjNzMzMTBjNTEyZTkwM2Ni.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+        "type": "text/html"
+      }],
+      "crawled": 1560958542703,
+      "published": 1560958811000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwNSUyRjIwJTJGMTA3NTQ5OV8xMDc1/NDk5X3ViZXItR2V0dHlJbWFnZXMtMjkt/c2VwdC0xNS0xLmpwZyZoYXNoPTkwN2I5/OTQwZTQyNzJkNmNjNzMzMTBjNTEyZTkwM2Ni.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/economie/transporturi/proiectul-de-oug-pe-ridesharing-intra-in-sedinta-de-guvern-de-joi-ciolacu-daca-nu-legea-sa-intre-la-vot-in-parlament-1148948",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 59,
+      "engagementRate": 0.12
+    },
+    {
+      "id": "ex+JpBeDvKfSWZ9KpJf9kky6u92fblZbQ8Ru+L/J3Lg=_16b7040218e:9388e4:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "fingerprint": "cb3d4e8a",
+      "content":          {
+        "content": "Profesorul de religie care a lăsat însărcinată o elevă de la liceul din Arieșeni, județul Alba, a recunoscut copilul. El ainițiat, împreună cu mama, procedurile pentru emiterea unui nou certificat de naștere al bebelușului, relatează MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "title": "Profesorul de religie din Alba care a lăsat însărcinată o elevă a recunoscut copilul",
+      "summary":          {
+        "content": "Profesorul de religie care a lăsat însărcinată o elevă de la liceul din Arieșeni, județul Alba, a recunoscut copilul. El ainițiat, împreună cu mama, procedurile pentru emiterea unui nou certificat de naștere al bebelușului, relatează MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMiUyRjEzJTJGMTAxNzQwNF8xMDE3/NDA0X21hdGVybml0YXRlLWJlYmVsdXMt/c3BpdGFsX3NodXR0ZXJzdG9ja18zNjA1/MTExNDUuanBnJmhhc2g9MjI3YmYxOGFmMjYzYzk3NWIzYjhhZWRhMzY3NmJhOTI=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+        "type": "text/html"
+      }],
+      "crawled": 1560956379534,
+      "published": 1560955983000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss",
+        "title": "Digi24",
+        "htmlUrl": "https://www.digi24.ro/"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMiUyRjEzJTJGMTAxNzQwNF8xMDE3/NDA0X21hdGVybml0YXRlLWJlYmVsdXMt/c3BpdGFsX3NodXR0ZXJzdG9ja18zNjA1/MTExNDUuanBnJmhhc2g9MjI3YmYxOGFmMjYzYzk3NWIzYjhhZWRhMzY3NmJhOTI=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "ampUrl": "https://www.digi24.ro/amphtml/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "cdnAmpUrl": "https://www-digi24-ro.cdn.ampproject.org/c/s/www.digi24.ro/amphtml/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "unread": true,
+      "categories": [         {
+        "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+        "label": "Digi24"
+      }],
+      "engagement": 253,
+      "engagementRate": 0.42
+    },
+    {
+      "id": "hawBF66djJ94L1QtvL7mdfx5tPpCcjTAra9O7PyLUSQ=_16b703bf784:932986:73d34570",
+      "originId": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "recrawled": 1560957915063,
+      "updateCount": 1,
+      "fingerprint": "cb3d4e8a",
+      "content":          {
+        "content": "Profesorul de religie care a lăsat însărcinată o elevă de la liceul din Arieșeni, județul Alba, a recunoscut copilul. El ainițiat, împreună cu mama, procedurile pentru emiterea unui nou certificat de naștere al bebelușului, relatează MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "title": "Profesorul de religie din Alba care a lăsat însărcinată o elevă a recunoscut copilul",
+      "summary":          {
+        "content": "Profesorul de religie care a lăsat însărcinată o elevă de la liceul din Arieșeni, județul Alba, a recunoscut copilul. El ainițiat, împreună cu mama, procedurile pentru emiterea unui nou certificat de naștere al bebelușului, relatează MEDIAFAX.",
+        "direction": "ltr"
+      },
+      "enclosure": [         {
+        "href": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMiUyRjEzJTJGMTAxNzQwNF8xMDE3/NDA0X21hdGVybml0YXRlLWJlYmVsdXMt/c3BpdGFsX3NodXR0ZXJzdG9ja18zNjA1/MTExNDUuanBnJmhhc2g9MjI3YmYxOGFmMjYzYzk3NWIzYjhhZWRhMzY3NmJhOTI=.jpg",
+        "type": "image/jpeg",
+        "length": 11
+      }],
+      "alternate": [         {
+        "href": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+        "type": "text/html"
+      }],
+      "crawled": 1560956106628,
+      "published": 1560956510000,
+      "origin":          {
+        "streamId": "feed/http://www.digi24.ro/rss/Stiri/Digi24/",
+        "title": "Digi24 | Știri",
+        "htmlUrl": "https://www.digi24.ro/stiri"
+      },
+      "visual":          {
+        "url": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYxMiUyRjEzJTJGMTAxNzQwNF8xMDE3/NDA0X21hdGVybml0YXRlLWJlYmVsdXMt/c3BpdGFsX3NodXR0ZXJzdG9ja18zNjA1/MTExNDUuanBnJmhhc2g9MjI3YmYxOGFmMjYzYzk3NWIzYjhhZWRhMzY3NmJhOTI=.jpg",
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.digi24.ro/stiri/actualitate/evenimente/profesorul-de-religie-din-alba-care-a-lasat-insarcinata-o-eleva-a-recunoscut-copilul-1148939",
+      "unread": true,
+      "categories":          [
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+          "label": "Must Read"
+        },
+        {
+          "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+          "label": "Digi24"
+        }
+      ],
+      "engagement": 256,
+      "engagementRate": 0.42
+    }
+  ]
+}

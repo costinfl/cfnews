@@ -1,0 +1,508 @@
+[
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/4cbc5f43-fcb9-4909-af6e-71f8a1c525cb",
+    "label": "Africa",
+    "created": 1555361085310
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Adevarul",
+    "label": "Adevarul"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Agentii",
+    "label": "Agentii"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Agerpres",
+    "label": "Agerpres"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Albania",
+    "label": "Albania"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/All",
+    "label": "News.ro"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Andorra",
+    "label": "Andorra"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Armenia",
+    "label": "Armenia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Australia",
+    "label": "Australia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Austria",
+    "label": "Austria"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Azerbaijan",
+    "label": "Azerbaijan"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Balkans",
+    "label": "Balkans"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Baltics",
+    "label": "Baltics"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Belarus",
+    "label": "Belarus"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Belgia",
+    "label": "Belgia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Bizyday",
+    "label": "Bizyday"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Blogary",
+    "label": "Blogary"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Bosnia si Hertegovina",
+    "label": "Bosnia si Hertegovina"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Brazilia",
+    "label": "Brazilia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Bulgaria",
+    "label": "Bulgaria"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Bursa.ro",
+    "label": "Bursa.ro"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Business Insider",
+    "label": "Business Insider"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Canada",
+    "label": "Canada"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Cehia",
+    "label": "Cehia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Central asia",
+    "label": "Central asia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/China",
+    "label": "China"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Cipru",
+    "label": "Cipru"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Croatia",
+    "label": "Croatia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Cuba",
+    "label": "Cuba"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Denmark",
+    "label": "Denmark"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Deschide.md",
+    "label": "Deschide.md"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Digi24",
+    "label": "Digi24"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/DoarPetrolul",
+    "label": "DoarPetrolul"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/EU",
+    "label": "EU"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/EVZ",
+    "label": "EVZ"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Estonia",
+    "label": "Estonia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Financial intelligence",
+    "label": "Financial intelligence"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Finlanda",
+    "label": "Finlanda"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Franta",
+    "label": "Franta"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Funky Citizens",
+    "label": "Funky Citizens"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/G4Media.ro",
+    "label": "G4Media.ro"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Georgia",
+    "label": "Georgia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Germania",
+    "label": "Germania"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/GoogleNews",
+    "label": "GoogleNews"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Grecia",
+    "label": "Grecia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Hong kong",
+    "label": "Hong kong"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Hotnews",
+    "label": "Hotnews"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/India",
+    "label": "India"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/InfoPrut",
+    "label": "InfoPrut"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Iran",
+    "label": "Iran"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Irlanda",
+    "label": "Irlanda"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Islanda",
+    "label": "Islanda"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Israel",
+    "label": "Israel"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Italia",
+    "label": "Italia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Japan",
+    "label": "Japan"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/KMKZ",
+    "label": "KMKZ"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Kazakhstan",
+    "label": "Kazakhstan"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Letonia",
+    "label": "Letonia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Liban",
+    "label": "Liban"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Liechtenstein",
+    "label": "Liechtenstein"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Lithuania",
+    "label": "Lithuania"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Local",
+    "label": "Local"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Luxembourg",
+    "label": "Luxembourg"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Macedonia",
+    "label": "Macedonia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Malta",
+    "label": "Malta"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Mediafax",
+    "label": "Mediafax"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Meteo",
+    "label": "Meteo"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Moldova",
+    "label": "Moldova"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Monaco",
+    "label": "Monaco"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Nato",
+    "label": "Nato"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Netherlands",
+    "label": "Netherlands"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/New Zealand",
+    "label": "New Zealand"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/North korea",
+    "label": "North korea"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Norway",
+    "label": "Norway"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/POLITIK.MD",
+    "label": "Politik.md"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Pagina de Media",
+    "label": "Pagina de Media"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Pakistan",
+    "label": "Pakistan"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Ploiesti",
+    "label": "Ploiesti"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Poland",
+    "label": "Poland"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Politicscan.ro",
+    "label": "Politicscan.ro"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Portugal",
+    "label": "Portugal"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/PressOne.ro",
+    "label": "PressOne.ro"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Profit.ro",
+    "label": "Profit.ro"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Radio Chisinau",
+    "label": "Radio Chisinau"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Radio Europa Libera",
+    "label": "Radio Europa Libera"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Republica.ro",
+    "label": "Republica.ro"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Revista22",
+    "label": "Revista22"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Romani pentru romani",
+    "label": "Romani pentru romani"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Romania",
+    "label": "Romania"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/RomaniaLibera",
+    "label": "RomaniaLibera"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Rusia",
+    "label": "Rusia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/SUA",
+    "label": "SUA"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/San marino",
+    "label": "San marino"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Science",
+    "label": "Science"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/ScienceAlert.com",
+    "label": "ScienceAlert.com"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Serbia",
+    "label": "Serbia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Singapore",
+    "label": "Singapore"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Slovakia",
+    "label": "Slovakia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Slovenia",
+    "label": "Slovenia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/South Korea",
+    "label": "South Korea"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Spania",
+    "label": "Spania"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Sport",
+    "label": "Sport"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Startup cafe",
+    "label": "Startup cafe"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Sweden",
+    "label": "Sweden"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Switzerland",
+    "label": "Switzerland"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Tech",
+    "label": "Tech"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/TimesNewRoman",
+    "label": "TimesNewRoman"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Timpul.md",
+    "label": "Timpul.md"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Turcia",
+    "label": "Turcia"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/UK",
+    "label": "UK"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Uae",
+    "label": "Uae"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Ukraine",
+    "label": "Ukraine"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Ungaria",
+    "label": "Ungaria"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Unimedia.info",
+    "label": "Unimedia.info"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/Vatican",
+    "label": "Vatican"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/ZF",
+    "label": "ZF"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/agora.md",
+    "label": "agora.md"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/e60e0479-ead9-41c6-81ad-9a0cdc61023b",
+    "label": "SolutionsJournalismNetwork",
+    "created": 1560089645058
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/gandul.info",
+    "label": "gandul.info"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/global.must",
+    "label": "Must Read"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/http%3A%2F%2Fdomainlanguage.com%2Fwp-content%2Fuploads%2F2016%2F05%2FDDD_Reference_2015-03.pdf",
+    "label": "http%3A%2F%2Fdomainlanguage.com%2Fwp-content%2Fuploads%2F2016%2F05%2FDDD_Reference_2015-03.pdf"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/http%3A%2F%2Fwww.redbooks.ibm.com%2Fredbooks%2Fpdfs%2Fsg248357.pdf",
+    "label": "http%3A%2F%2Fwww.redbooks.ibm.com%2Fredbooks%2Fpdfs%2Fsg248357.pdf"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/https%3A%2F%2Fintranet.birmingham.ac.uk%2Fit%2Fdocuments%2Fpublic%2Farchitecture%2FEnterprise-Architecture-Principles.pdf",
+    "label": "https%3A%2F%2Fintranet.birmingham.ac.uk%2Fit%2Fdocuments%2Fpublic%2Farchitecture%2FEnterprise-Architecture-Principles.pdf"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/https%3A%2F%2Fwww.cs.bris.ac.uk%2F~cszjpc%2Fpubs%2F00diss.pdf",
+    "label": "https%3A%2F%2Fwww.cs.bris.ac.uk%2F~cszjpc%2Fpubs%2F00diss.pdf"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/puterea.ro",
+    "label": "puterea.ro"
+  },
+  {
+    "id": "user/afe691b3-4838-42a5-b7f5-a86266db72e2/category/trendwatching",
+    "label": "trendwatching"
+  }
+]
