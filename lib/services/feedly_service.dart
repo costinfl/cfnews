@@ -7,9 +7,9 @@ import 'package:cfnews/network/feedly_api_client.dart';
 import 'package:cfnews/network/feedly_api_client_mock.dart';
 
 class FeedlyService {
-  FeedlyApiClientMock _feedlyApiClient;
+//  FeedlyApiClientMock _feedlyApiClient;
 
-//  FeedlyApiClient _feedlyApiClient;
+  FeedlyApiClient _feedlyApiClient;
 
   Map<String, String> _nextPageCache = Map();
 
